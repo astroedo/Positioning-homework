@@ -1,0 +1,8 @@
+Given a set of quasi keplerian parameters, predict the orbit of a GPS satellite
+
+- A:       semi-major axis                    [m]
+- e:       eccentricity                       [-]
+- i_0:     inclination                        [rad]
+- Omega_0: Righ Ascension of Ascending node   [rad]
+- omega:   Argument of Perigee                [rad]
+- M_0:     True Anomaly                       [rad]
